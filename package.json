@@ -1,0 +1,17 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
