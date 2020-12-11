@@ -1,2 +1,8 @@
 # javascript_calculator
-Simple JS application working with TDD
+Simple JS calculator working with TDD
+
+## Execute tests
+
+```javascript
+npm run test
+```
